@@ -1,3 +1,3 @@
-# Blog
+# Boilerplate
 
-Este é o blog que foi criado no curso de Python de Luiz Otávio Miranda.
+Setup para projeto usando Docker, Django e Postgres.
